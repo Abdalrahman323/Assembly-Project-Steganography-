@@ -1,0 +1,19 @@
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\bin\Debug\Assembly_stag.exe.config
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\bin\Debug\Assembly_stag.exe
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\bin\Debug\Assembly_stag.pdb
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.Form1.resources
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.Pop_out.resources
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.Properties.Resources.resources
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.csproj.GenerateResource.Cache
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.exe
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.pdb
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.csprojResolveAssemblyReference.cache
+D:\material\3 year\Assembly (100)\project\Final\MY Own\Assembly_stag\Assembly_stag\bin\Debug\Assembly_stag.exe.config
+D:\material\3 year\Assembly (100)\project\Final\MY Own\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.exe
+D:\material\3 year\Assembly (100)\project\Final\MY Own\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.pdb
+D:\material\3 year\Assembly (100)\project\Final PROJECT\MY Own\Assembly_stag\Assembly_stag\bin\Debug\Assembly_stag.exe.config
+D:\material\3 year\Assembly (100)\project\Final PROJECT\MY Own\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.exe
+D:\material\3 year\Assembly (100)\project\Final PROJECT\MY Own\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.pdb
+D:\material\3 year\1st term\Assembly (100)\project\Final PROJECT\MY Own\Assembly_stag\Assembly_stag\bin\Debug\Assembly_stag.exe.config
+D:\material\3 year\1st term\Assembly (100)\project\Final PROJECT\MY Own\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.exe
+D:\material\3 year\1st term\Assembly (100)\project\Final PROJECT\MY Own\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.pdb
